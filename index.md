@@ -49,7 +49,9 @@ Wi-Fi adalah singkatan dari “Wireless Fidelity” sebuah teknologi yang memanf
 
 
 
-
+### Encoding
+encoding adalah mengubah data yang dapat digunakan oleh berbagai macam sistem secara tepat dan aman seperti data berbentuk biner,  menyimpan data ke dalam database atau menampilkan karakter-karakter ke dalam halaman web atau ke media lainnya. tujuan encoding berfokus pada bagaimana mengubah data dari satu sistem ke sistem lain secara benar, pada saat proses melakukan encoding biasanya akan digunakan cara yagn sudah tersedia secara umum.
+ 
 
 
 
@@ -57,4 +59,5 @@ Refrensi.
 - https://id.wikipedia.org/wiki/Inframerah
 - https://id.wikipedia.org/wiki/Bluetooth
 - https://en.wikipedia.org/wiki/Wi-Fi
+- https://www.codepolitan.com/apa-itu-encoding-obfuscation-hashing-dan-encryption-58bfb7eee3215
 - https://norisanto.com/berapa-jauh-daya-jangkau-sinyal-wi-fi-2-4-ghz-dan-5-ghz/
