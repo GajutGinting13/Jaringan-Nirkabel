@@ -1,6 +1,10 @@
 ### Sinyal Nirkabel
 
+![image](wifi.png)
+
 ## Sinyal RF(Radio Frequency)
+
+![image](radio.jpg)
 
 sinyal radio frekuensi merambat melalui udara sinyal tersebut akan kehilangan amplitudonya apabila jarak antara pengirim dan penerima bertambah yang berakibat amplitue sinyal menurun secara eksponesial. sinyal harus memiliki cukup energi untuk mencapai jarak di mana resiver berada
 Radio sering di gunakan pada pengendali jarak jauh tanpa kabel atau sering di sebut dengan (remote control) bisanya digunakan pada radio televisi ht dan dan lain lain. 
@@ -11,6 +15,8 @@ radio(RF) mempunyai frekuensi sinyal yaitu 300Mhz sampai 3 Ghz(3.000 Mhz)ketika 
 - Televisi
 
 ## Sinyal Infared
+![image](infrared.jpg)
+
 Infrared adalah radiasi elektromagnetik dari panjang gelombang lebih panjang lebih panjang dari cahaya tampak, tetapi lebih pendek dari radiasi gelombang radio karakteristik 
 - tidak dapat di lihat oleh manusia 
 - tidak dapat menembus materi yang tidak tembus pandang 
@@ -20,6 +26,8 @@ Infrared adalah radiasi elektromagnetik dari panjang gelombang lebih panjang leb
 - Inframerah jarak jauh dengan panjang gelombang 10 – 100 µm
 
 ### Bluetooth
+![image](bluetooth.jpg)
+
 adalah spesifikasi industri untuk jaringan kawasan pribadi (personal area networks atau PAN)tanpa kabel. bluetooth beroprasi dalam  pita frekuensi 2,4 GHz dengan menggunakan sebuah frequency hopping traceiver yang mampu menediakan layanan telekomukani data secara real time
 
 Frekuensi	ISM band, 2400 - 2483.5 MHz (mayoritas), untuk beberapa negara mempunyai batasan frekuensi sendiri, spasi kanal 1 MHz.
@@ -33,6 +41,7 @@ Max. usable level	-20 dBm, BER: 0,1%
 jarak jaringan bluetooth biasanya -+10m
 
 ## Jaringan Wi-Fi
+![image](Nirkabel.png)
 Wi-Fi adalah singkatan dari “Wireless Fidelity” sebuah teknologi yang memanfaatkan peralatan elektronik untuk bertukar data (mengunakan gelombang radio). teknologi wifi merupakan teknologi yang berbasis pada standar IEEE 802.11Karena kemampuannya yang memperbolehkan Jaringan Area Lokal (Local Area Network atau LAN) untuk beroperasi tanpa memerlukan kabel (nirkabel),Wifi memiliki frekuensi  2.4 GHz dan 5 GHz 
 -  IEEE 802.11b 2,4 Ghz memiliki rate sebesar 1 Mbps sampai 11 Mbps jarak 350 ft atau 105 meter
 -  IEEE 802.11g 2,5 GHz memiliki rate sebesar 6 Mbps Sampai 54 Mbps jarak 300 ft atau 90 meter
