@@ -1,4 +1,4 @@
-### Sinyal Nirkabel
+### Jaringan Nirkabel
 
 ![image](wifi.png)
 
@@ -10,7 +10,7 @@ sinyal radio frekuensi merambat melalui udara sinyal tersebut akan kehilangan am
 Radio sering di gunakan pada pengendali jarak jauh tanpa kabel atau sering di sebut dengan (remote control) bisanya digunakan pada radio televisi ht dan dan lain lain. 
 radio(RF) mempunyai frekuensi sinyal yaitu 300Mhz sampai 3 Ghz(3.000 Mhz)ketika ada halangan yang menghalangi sinyal tersebut maka sintal tersebut tidak akan terganggu dan juga Rf tidak akann interface oleh sinyal lainnya
 
-# contoh Sinyal Radio RF (Radio Frequency)
+# contoh media pengunaan Sinyal Radio RF (Radio Frequency)
 - Telephone
 - Radio
 - Televisi
