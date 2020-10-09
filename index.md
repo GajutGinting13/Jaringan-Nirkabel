@@ -9,6 +9,7 @@
 sinyal radio frekuensi merambat melalui udara sinyal tersebut akan kehilangan amplitudonya apabila jarak antara pengirim dan penerima bertambah yang berakibat amplitue sinyal menurun secara eksponesial. sinyal harus memiliki cukup energi untuk mencapai jarak di mana resiver berada
 Radio sering di gunakan pada pengendali jarak jauh tanpa kabel atau sering di sebut dengan (remote control) bisanya digunakan pada radio televisi ht dan dan lain lain. 
 radio(RF) mempunyai frekuensi sinyal yaitu 300Mhz sampai 3 Ghz(3.000 Mhz)ketika ada halangan yang menghalangi sinyal tersebut maka sintal tersebut tidak akan terganggu dan juga Rf tidak akann interface oleh sinyal lainnya
+
 # contoh Sinyal Radio RF (Radio Frequency)
 - Telephone
 - Radio
@@ -19,8 +20,8 @@ radio(RF) mempunyai frekuensi sinyal yaitu 300Mhz sampai 3 Ghz(3.000 Mhz)ketika 
 
 Infrared adalah radiasi elektromagnetik dari panjang gelombang lebih panjang lebih panjang dari cahaya tampak, tetapi lebih pendek dari radiasi gelombang radio karakteristik 
 - tidak dapat di lihat oleh manusia 
-- tidak dapat menembus materi yang tidak tembus pandang 
-# jenis jenis panjang geombang infrared
+
+
 - Inframerah jarak dekat dengan panjang gelombang 0.75 – 1.5 µm
 - Inframerah jarak menengah dengan panjang gelombang 1.50 – 10 µm
 - Inframerah jarak jauh dengan panjang gelombang 10 – 100 µm
@@ -51,7 +52,7 @@ Wi-Fi adalah singkatan dari “Wireless Fidelity” sebuah teknologi yang memanf
 
 ### Encoding
 encoding penyandian atau proses untuk mengubah sinyal asal ke dalam bentuk yang lebih optimal untuk keperluan komunikasi data Decoding mengekstrak data yang telah di encoding tadi ke dalam bentuk sinyal asli atau asalnya.
-Dalam hal ini sebagai contoh mengubah sinyal bit deret menjadi sinyal bit data jajar.
+sebagai contoh mengubah sinyal bit deret menjadi sinyal bit data jajar.
  
 
 
