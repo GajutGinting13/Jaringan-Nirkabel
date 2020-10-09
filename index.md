@@ -21,7 +21,7 @@ radio(RF) mempunyai frekuensi sinyal yaitu 300Mhz sampai 3 Ghz(3.000 Mhz)ketika 
 Infrared adalah radiasi elektromagnetik dari panjang gelombang lebih panjang lebih panjang dari cahaya tampak, tetapi lebih pendek dari radiasi gelombang radio karakteristik 
 - tidak dapat di lihat oleh manusia 
 
-
+# Jenis Panjang gelombang infrared
 - Inframerah jarak dekat dengan panjang gelombang 0.75 – 1.5 µm
 - Inframerah jarak menengah dengan panjang gelombang 1.50 – 10 µm
 - Inframerah jarak jauh dengan panjang gelombang 10 – 100 µm
