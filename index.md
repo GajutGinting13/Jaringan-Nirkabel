@@ -55,9 +55,3 @@ Dalam hal ini sebagai contoh mengubah sinyal bit deret menjadi sinyal bit data j
  
 
 
-
-Refrensi.
-- https://id.wikipedia.org/wiki/Inframerah
-- https://id.wikipedia.org/wiki/Bluetooth
-- https://en.wikipedia.org/wiki/Wi-Fi
-- https://www.codepolitan.com/apa-itu-encoding-obfuscation-hashing-dan-encryption-58bfb7eee3215
