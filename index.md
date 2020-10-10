@@ -1,4 +1,4 @@
-### Jaringan Nirkabel
+### Media Jaringan Nirkabel
 
 ![image](wifi.png)
 
